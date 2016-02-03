@@ -1,26 +1,26 @@
 # [Bootplus v1.0.5](https://github.io/aozora/bootplus)
 
-Bootplus is a front-end framework for faster and easier web development inspired by the lates Google+ look & feel, created and maintained by [Aozora](http://twitter.com/aozoralabs).
+bootplus是更快和更容易的Web开发灵感来自最新的谷歌+的外观和感觉的前端框架，创建和维护[Aozora](http://twitter.com/aozoralabs).
 
 Bootplus is based on [Twitter Bootstrap](http://twitter.github.io/bootstrap)
 To get started, check out [http://aozora.github.com/bootplus](http://aozora.github.io/bootplus)!
 
 
 
-## Quick start
+## 快速启动
 
-Three quick start options are available:
+三快速启动选项：
 
 * [Download the latest release](http://aozora.github.io/bootplus/zipball/master).
-* Clone the repo: `git clone git://github.com/aozora/bootplus.git`.
+* 克隆的地址： `git clone git://github.com/aozora/bootplus.git`.
 
-Read the [Getting Started page](http://aozora.github.io/bootplus/getting-started) for information on the framework contents, templates and examples, and more.
+读 [Getting Started page](http://aozora.github.io/bootplus/getting-started) 有关框架内容、模板和实例的信息，以及更多。
 
 
 
 ## Versioning
 
-For transparency and insight into our release cycle, and for striving to maintain backward compatibility, Bootplus will be maintained under the Semantic Versioning guidelines as much as possible.
+透明度和洞察我们的发布周期，并努力保持向后兼容性，bootplus将保持语义版本的指引下尽可能。
 
 Releases will be numbered with the following format:
 
